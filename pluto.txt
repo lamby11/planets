@@ -2,4 +2,8 @@
 Pluto is not a planet.
 But your ma might be.
 Git push Euan out the window.
+<<<<<<< HEAD
+========
+That's mean, he might gitbash his head.
+>>>>>>> 03706631cb2accf9a26ae7caae22cdd1d6efa5bb
 Lanky git bash
